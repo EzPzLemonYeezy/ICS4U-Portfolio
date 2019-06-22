@@ -15,7 +15,11 @@
 <h5>Project completed: Roman Numeral Converter</h5>
 <h5><ul>
   <li>Debugging</li>
+  <li>Basic Algorithm Scripting</li>
 </h5></ul>
 
 <h3>Coding Summative:</h3>
 <h5><ul><li>Bees and Bombs</li></ul></h5>
+
+<h3>Other Projects Done:</h3>
+<h5><ul><li>Mathematical Rose Petal</li></ul></h5>
