@@ -11,8 +11,11 @@
   <li>Algorithms</li>
 </h5></ol>
 
-<h3>Free Code Camp: Javascript Algorithms And Data Structures</h4>
+<h3>Free Code Camp: Javascript Algorithms And Data Structures:</h4>
 <h5>Project completed: Roman Numeral Converter</h5>
 <h5><ol>
   <li>Debugging</li>
 </h5></ol>
+
+<h3>Coding Summative:</h3>
+<h5><ol><li>Bees and Bombs</li></ol></h5>
