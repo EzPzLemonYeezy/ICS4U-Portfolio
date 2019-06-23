@@ -49,7 +49,7 @@
   <h5>In this module, I actually did very little coding. The point of learning this module was to help me be able to see errors and learn how to efficiently fix them. It also showed me how to test different areas of the code to do checks. This is especially important, since in my career as a software engineer, I will have to be coding and cooperating with others code aswell, so learning the methods of debugging and fixing code will help me immensely.</h5></li>
 
 <li><h4>Basic Algorithm Scripting</h4>
-  <h5>This module taught me how to code using basic algorithmic techniques. Through the lessons I was able to learn how to convert celsius to fahrenheit, factor numbers, and many more. </h5></li>
+  <h5>This module taught me how to code using basic algorithmic techniques. Through the lessons I was able to learn how to convert celsius to fahrenheit, factor numbers, and many more. These techniques are ones that I can apply in real live scenarios and will really help me when having to face some of these challenges in the work life.</h5></li>
 
 <li><h4>Bees and Bombs</h4>
   <h5>I included this module because it was probably the most fun I had coding, while it was also very beneficial. It really challenged me because I had to take the algorithmic code and convert it to object oriented. It also gave me a sense of being able to work and cooperate with other people on the same project, which is especially important in software engineering. Being able to actually complete the code that made it work felt very rewarding and accomplished because I had to make the code. I had to playt around with it and experiment with many different aspects using the p5 web editor.</h5></li>
