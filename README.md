@@ -1,4 +1,5 @@
 <h1>Hi, this is my Portfolio!</h1>
+![alt text](https://github.com/EzPzLemonYeezy/ICS4U-Portfolio/blob/master/BeesAndBombsIMG.png)
 
 <h2>These are my top 10 modules that I completed:</h3>
 
