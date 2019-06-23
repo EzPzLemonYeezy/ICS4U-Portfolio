@@ -28,7 +28,7 @@
 <h2>Summary of top 10 Modules:</h2>
 <ol>
 <li><h4>Intro to Js: Drawing and Animation:</h4>
-  <h5></h5></li>
+  <h5>Intro to JS was the first khan academy module I did. Since this module teaches more about all the basics of JavaScript and how to use it, I found it to be a little boring. The challenges especially started to become repetitive, which only made it more boring. Eventhough it took willpower to complete, in the end this module became very crucial for the rest of the JavaScript modules. Without the basis, the other modules would have become much harder. The introduction coding was the backbone of my other modules that I was able to complete.</h5></li>
 
 <li><h4>Intro to HTML/CSS: Making Webpages:</h4>
   <h5></h5></li>
