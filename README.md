@@ -57,3 +57,8 @@
 <li><h4>Mathematical Rose Petal</h4>
   <h5>During this code I had to watch the coding challenge online on the mathematical rose. The video gave me an understanding on the concepts I has to incorporate. It taught me how to take a basis code given to me and have to elevate it. I had to elevate this code by including color and a change in radius into the customizations you can do with the mathrose. </h5></li>
 </ol>
+
+<h3>Links to works done</h3>
+<a target = "_blank" href = "https://learn.freecodecamp.org/">Free Code Camp</a>
+<a target = "_blank" href = "https://learn.freecodecamp.org/">Github</a>
+<a target = "_blank" href = "https://learn.freecodecamp.org/">P5 Web Editor</a>
